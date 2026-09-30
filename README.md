@@ -57,4 +57,4 @@ Future Enhancements
 	• Multi-language support
 
 Youtube link - https://youtu.be/C4OFvdY4lDU
-Demo link - truematchai.streamlit.app
+Demo link - https://truematchai.streamlit.app
